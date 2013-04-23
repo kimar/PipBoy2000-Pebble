@@ -1,0 +1,16 @@
+
+{"friendlyVersion": "0.0.1",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+	   {
+	    "type":"png",
+	    "defName":"IMAGE_MENU_ICON",
+	    "file":"images/pipboy.png"
+	   },
+	   {
+        "type": "png",
+        "defName": "IMAGE_BACKGROUND",
+        "file": "images/background.png"
+        }
+	  ]
+}
